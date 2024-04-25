@@ -1,0 +1,34 @@
+# mail_box_client
+
+URL: https://mail-box-client-ade18.web.app
+
+Project Title: Mailbox Client
+
+Objective/Goal:
+Developed an efficient Mailbox Client application for sending and managing emails, with a focus on database storage.
+Utilized React JS for the front end, Redux Toolkit for state management, and Firebase for authentication, database, and hosting.
+
+Role/Responsibilities:
+Spearheaded the development of the Mailbox Client, serving as the primary front-end developer.
+Implemented Redux Toolkit for effective state management, ensuring seamless and optimized user interactions.
+Integrated Firebase for authentication, enabling secure user access to the email platform.
+Designed and implemented features allowing users to view sent and deleted emails, with visual indicators for read/unread statuses.
+
+Technologies Used:
+React JS for frontend development
+Redux Toolkit for State Management
+Firebase for authentication, database, and hosting
+
+Challenges Faced:
+Overcame challenges related to implementing efficient state management with Redux Toolkit for a responsive and organized user interface.
+Ensured seamless integration of Firebase for authentication and database functionalities.
+
+Achievements/Outcomes:
+Successfully delivered a fully functional Mailbox Client, providing users with a reliable platform for sending, managing, and tracking emails.
+Improved user experience by implementing features such as highlighting read/unread emails for quick identification.
+
+
+
+
+
+

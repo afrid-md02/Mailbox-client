@@ -1,0 +1,59 @@
+.maindivinsend{
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.form{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.closebutton{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.to{
+    font-weight: bold;
+}
+
+.tospan{
+    display: flex;
+    align-items: center;
+    padding-bottom: 5px;
+    border-bottom: 1px solid gray;
+}
+
+.toinputtag{
+    margin-left:20px;
+    width: 90%;
+    border: 0;
+}
+
+.title{
+    width: 100%;
+    border : 0;
+}
+
+.titleSpan{
+    padding-top: 10px;
+    border-bottom: 1px solid gray;
+    padding-bottom: 5px;
+    font-family: monospace;
+}
+
+.subject{
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.content{
+    margin-top: 10px;
+}
+
+.buttonsdiv{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

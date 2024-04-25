@@ -1,0 +1,70 @@
+.signin {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+  }
+  
+  .signinText {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 50px;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  }
+  
+  .input {
+    margin-bottom: 20px;
+    margin-right: 5%;
+    margin-left: 5%;
+  }
+  
+  .body {
+    margin-top: 40px;
+  }
+  
+  .buttonspan {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+  }
+  
+  .forgotSpan {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: monospace;
+    margin-bottom: 5%;
+  }
+  
+  .forgot {
+    color: red;
+    text-decoration: underline;
+  }
+  
+  .switchAuthButton {
+    margin-top: 10%;
+    width: 500px;
+    height: 60px;
+    font-size: larger;
+    font-family: monospace;
+    background-color: rgba(254,192,24,255);
+    color: white;
+    border: 2px solid rgba(254,192,24,255);
+    border-radius: 40px;
+  }
+  
+  .forgot:hover {
+    color: white;
+    cursor: pointer;
+  }
+  
+  .validate {
+    color: white;
+    font-size: larger;
+    font-family: monospace;
+  }
+  

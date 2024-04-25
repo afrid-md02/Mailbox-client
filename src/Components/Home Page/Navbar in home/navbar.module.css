@@ -1,0 +1,25 @@
+.sendEmail{
+    font-family: monospace;
+    color: rgb(170, 170, 170);
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.sendEmail:hover{
+    color: white;
+    text-decoration: underline;
+}
+
+.heading{
+    font-family:fantasy;
+    font-size: 50px;
+}
+
+.logoutButton{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.rightdivinNavbar{
+    display: flex;
+}

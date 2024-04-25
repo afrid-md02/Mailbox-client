@@ -1,0 +1,71 @@
+.leftInDelete{
+    width: 250px;
+    height: 100%;
+    margin-bottom: 0;
+    bottom: 0;
+    height: 100vh;
+    background-color: rgb(212, 212, 212);
+
+}
+
+.compose{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.items{
+    display: grid;
+}
+
+.inboxSpan{
+    padding-top: 10px;
+}
+
+.inboxText{
+    color: black;
+    text-decoration: none;
+    font-family:monospace;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.unreadText{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+}
+
+.sentText{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: black;
+    text-decoration: none;
+    font-family:monospace;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.deleteText{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+    text-decoration: none;
+    font-family:monospace;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(23,111,251,255);
+}
+
+.sentText:hover,.inboxText:hover{
+    color: rgba(23,111,251,255);
+}

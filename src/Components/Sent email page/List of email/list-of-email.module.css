@@ -1,0 +1,130 @@
+
+.email{
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+    border-bottom: 1px solid gray;
+}
+
+.reademail{
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+    border-bottom: 1px solid gray;
+}
+
+.email:before{
+    color: rgba(23,111,251,255);
+    font-size: 40px;
+    content: "• ";
+}
+
+.emailsSpan{
+    width: 1050px;
+    border-right: 1px solid gray;
+}
+
+.refreshbuttonspan{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.about{
+    font-size: 30px;
+}
+
+.emailspan{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+}
+
+.titleSpan{
+    display: flex;
+    align-items: center;
+    width: 650px;
+}
+
+.empty{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.unreadLi{
+    display: flex;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    border-bottom: 1px solid gray;
+    margin-right: 20px;
+}
+
+.unreadLi::before{
+    content: "•";
+    font-size: 40px;
+    color: rgba(23,111,251,255);
+}
+
+.fromEmailText{
+    width: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.aboutEmailText{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 35px;
+    width: 550px;
+}
+
+.readEmail{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    margin-right: 20px;
+    font-weight: normal;
+}
+
+.readEmailFromText{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 365px;
+    padding-left: 20px;
+}
+
+.readEmailTitle{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 550px;
+    font-size: 35px;
+}
+
+.readEmail:hover{
+    cursor: pointer;
+    background-color: rgb(212, 212, 212);
+}
+
+.unreadLi:hover{
+    cursor: pointer;
+    background-color: rgb(212, 212, 212);
+}
+
+.textTitle:hover{
+    text-decoration: underline;
+}
+
+
+
